@@ -430,7 +430,7 @@
 }
 
 .mycrm-modal-backdrop.active .mycrm-modal-card {
-  transform: translateY(0); /* [cite: 52] */
+  transform: none; /* [cite: 52] */
 } /* [cite: 53] */
 
 .mycrm-modal-header {
